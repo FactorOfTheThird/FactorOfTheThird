@@ -1,10 +1,10 @@
 👋 Yo yo, I'm Factor, you can call me Alex.
 
-💻 Some languages I've dabbled in or even learned: JS, Python, Lua, C#, C.
+💻 Some languages I've dabbled in or even learned: JS, Python, Lua, C#.
 
-🕹 I've made games in the past both with Unity, GameMaker Studio and Roblox
+🕹 I've made games in the past both with Unity, GameMaker Studio, Roblox & Godot
 
-🤔 Get me on Discord: Dysanaii#0505
+🤔 Get me on Discord: rexxa. (yes with a dot)
 
 
 <!---
