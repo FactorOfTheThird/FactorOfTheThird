@@ -4,8 +4,6 @@
 
 🕹 I've made games in the past both with Unity, GameMaker Studio, Roblox & Godot
 
-🤔 Get me on Discord: rexxa. (yes with a dot)
-
 
 <!---
 FactorOfTheThird/FactorOfTheThird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
