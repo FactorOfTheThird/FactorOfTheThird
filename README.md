@@ -1,8 +1,10 @@
-👋 Yo yo, I'm Factor, you can call me Alex.
+👋 Hey, I'm Factor, you can call me Alex.
 
-💻 Some languages I've dabbled in or even learned: JS, Python, Lua, C#.
+💻 I've spent most of my teens, and early adulthood exploring various languages like Svelte, MJML, React, Angular, C#, C, Rust, Python, Lua, and more!
 
-🕹 I've made games in the past both with Unity, GameMaker Studio, Roblox & Godot
+🤖 Ever since ChatGPT 3, I've been following, and using each new AI tech that entered the space, making me super comfortable using OpenCode, OpenClaw, & general AI agents like Claude, ChatGPT, and others.
+
+🕹 I've made games in the past both with Unity, GameMaker Studio, Roblox & Godot (though I'm mostly proficient in Roblox)
 
 
 <!---
