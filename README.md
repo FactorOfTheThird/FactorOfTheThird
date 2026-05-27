@@ -6,6 +6,8 @@
 
 🕹 I've made games in the past both with Unity, GameMaker Studio, Roblox & Godot (though I'm mostly proficient in Roblox)
 
+💼 Professionally, I'm working in SEO where I manage content for a large platform, using SEMRush, Ahrefs, and CMS platforms.
+
 
 <!---
 FactorOfTheThird/FactorOfTheThird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
